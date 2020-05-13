@@ -1,0 +1,4 @@
+Cookies
+Cookies is small file of size maximum 4kb,The server stores on the client computer.Cookies are assigned with a particular domain it can't be accessed by every domain.The cookies lifetime is set by the developer.
+Session
+A session is a global variable stored on the server.Each session is associated with a unique ID its stored on the client computer and returned with every request to the server.The session ends when the user closes the browser window.
